@@ -1,0 +1,20 @@
+{
+  "name": "homecloud",
+  "version": "1.0.0",
+  "description": "Personal cloud system available to all devices connected to local network given they have access/ credentials.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisean550/homecloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisean550/homecloud/issues"
+  },
+  "homepage": "https://github.com/chrisean550/homecloud#readme"
+}
